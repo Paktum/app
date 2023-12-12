@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"1yib.svelte-bundle",
+			"numso.prettier-standard-vscode",
+		]
+	}
+}
